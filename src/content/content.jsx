@@ -95,6 +95,8 @@ export const infos = {
       <p>Horário de expediente:</p>
       <p>Segunda a Sexta-feira</p>
       <p>10h às 18h</p>
+      <br />
+      <p>Atendimento 24 horas para causas criminais urgentes</p>
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
@@ -125,7 +127,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO EM DUQUE DE CAXIAS - RJ",
+      miniTag: "ADVOGADO ATUANTE EM TODO O ESTADO DO RIO DE JANEIRO",
       title: (
         <h1 className="mb-[16px]">
           Seu problema jurídico
@@ -430,7 +432,7 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUEM É O DR. RAPAHEL LEMOS",
+      miniTag: "QUEM É O DR. RAPHAEL LEMOS",
       title: "Minha trajetória",
       subtitle:
         "Defesa ética, atendimento humanizado e foco total nos seus direitos.",
